@@ -6,4 +6,4 @@ Projeto realizado utilizando os métodos de flexbox do bootcamp Santander FullSt
 
 
 
-Você pode acessar a página por este link
+Você pode acessar a página por este <a href= "https://brunomedve.github.io/landing-page/">link aqui</a>
